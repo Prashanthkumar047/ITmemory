@@ -25,7 +25,7 @@ void main(){
                     }
                 printf("After 90 degress AnticlockWise\n");
 
-                    for(col=0;col<=2;col++){
+                    for(col=2;col>=0;col--){
                         for(row=0;row<=2;row++){
 
                             printf("%d ",a[row][col]);
