@@ -1,4 +1,4 @@
-//Rotation 90 Degress Clockwise
+//Rotation 90 Degrees Clockwise
 #include<stdio.h>
         int main(){
             int a[3][3];
